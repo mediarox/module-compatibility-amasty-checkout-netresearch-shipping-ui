@@ -2,7 +2,7 @@
   "name": "mediarox/module-compatibility-amasty-checkout-netresearch-shipping-ui",
   "description": "Compatibility module for the modules netresearch/module-shipping-ui & amasty/module-single-step-checkout.",
   "type": "magento2-module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": [
     "MIT"
   ],
