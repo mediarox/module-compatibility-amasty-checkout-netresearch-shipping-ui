@@ -10,7 +10,7 @@
     <module name="Compatibility_AmastyCheckoutNetresearchShippingUi" setup_version="0.0.1">
         <sequence>
             <module name="Amasty_Checkout"/>
-            <module name="NetresearchShippingUi"/>
+            <module name="Netresearch_ShippingUi"/>
         </sequence>
     </module>
 </config>
